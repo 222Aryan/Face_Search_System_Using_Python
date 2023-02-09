@@ -5,7 +5,8 @@
    </div>
 </p>
 
-
+Face search is a technology used for identifying and matching faces in images and videos. It uses computer algorithms to analyze the visual features of a face, such as the shape of the eyes, nose, and mouth, and the relative position of these features. The technology is used in a variety of applications, including security systems, photo and video management, and social media.In security systems, face search can be used for identifying individuals in a crowd or at a checkpoint, and comparing their faces against a database of known individuals. In photo and video management, face search can be used to quickly find specific photos or videos that contain a certain person. On social media, face search can be used to help users find photos or videos of themselves or their friends, or to tag people in photos automatically.
+The accuracy of face search technology has improved significantly in recent years, thanks to advances in machine learning and computer vision. However, it is still subject to errors and limitations, such as difficulty in recognizing faces that are partially obscured or facing sideways, or differences in lighting or facial expression between the target face and the reference face.
 # Run Script in Visual Studio Code
 
 # A few python modules and packages are required to download in order to complete this project and have it run properly. 
