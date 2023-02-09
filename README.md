@@ -28,5 +28,11 @@ face_recognition - pip install face_recognition
 
 opencv-python - pip install opencv-python
 
+ <div align="center">
+        <a href="https://www.linkedin.com/in/aryan-trivedi-2b6330242/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" /></a>
+        <a href="mailto:aryantrivedi222@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+        <a href="https://twitter.com/aryan@222"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
+        <a href="https://stackoverflow.com/"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" /></a>
+    </div>
 
 ```
